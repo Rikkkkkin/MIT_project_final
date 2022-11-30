@@ -7,6 +7,8 @@ NFT issurance folder for deploying an NFT onto blockchain. The image of the NFT 
 
 Marketplace folder for an NFT marketplace. This can be deployed in my local environment using npm.
 
+Please ignore marketplace folder.
+
 I put much effort in this project while enjoyed a lot. Thanks!
 
 Rik
