@@ -1,0 +1,16 @@
+{
+    "attributes": [
+      {
+        "trait_type": "Name",
+        "value": "Rik"
+      },
+      {
+        "trait_type": "Step",
+        "value": "7890"
+      }
+    ],
+    "description": "Rik's step data",
+    "image": "ipfs://QmRoKsS3Vzw61EGv49Ey1QJXHf91zyUgsU1YrXdPbVfjK7",
+    "name": "data1"
+  }
+  
